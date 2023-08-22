@@ -1,5 +1,5 @@
 import React from 'react'
-import { pageLinks, socialinks } from '../data'
+import { socialinks } from '../data'
 import Pagelink from './Pagelink'
 
 const Footer = () => {
